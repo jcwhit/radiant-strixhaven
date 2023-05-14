@@ -6,7 +6,7 @@
 	- [[Aurora Lunar Winterstar]]
 		- not close with at all
 
-Notes:
+- Notes:
 -  avid player of Dragonchess
 -  challenged [[Jay]] to a duel
 	-  Jay insulted him by losing a game of Dragonchess and trying to write an IOU
