@@ -1,5 +1,5 @@
--female elf
--second year
+- female elf
+- second year
 
 Writer for [[The Strixhaven Star]]
 

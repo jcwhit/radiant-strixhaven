@@ -1,1 +1,1 @@
--owner and operator of [[Bow's End Tavern]]
+- owner and operator of [[Bow's End Tavern]]

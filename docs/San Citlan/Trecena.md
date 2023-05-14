@@ -1,4 +1,4 @@
--rulers of [[San Citlan]]
--city aristocracy
+- rulers of [[San Citlan]]
+- city aristocracy
 
--opposition of Revolutionaries
+- opposition of Revolutionaries

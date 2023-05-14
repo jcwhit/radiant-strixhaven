@@ -1,10 +1,10 @@
-white-red
+white- red
 
 College of history, archeology, and artifacts.
 
 Professors:
-	-[[Urkey Timbers]]
+- [[Urkey Timbers]]
 
 Deans:
--[[Augusta, Dean of Order]]
--[[Plargg, Dean of Chaos]]
+- [[Augusta, Dean of Order]]
+- [[Plargg, Dean of Chaos]]

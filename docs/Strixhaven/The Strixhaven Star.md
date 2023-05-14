@@ -1,8 +1,8 @@
 The local newspaper.
 
 Staff:
-[[Mina Lee]]: 
-	-reporter and writer
+- [[Mina Lee]]: 
+	- reporter and writer
 
-Grayson Wydimere
-	-gossip column
+- Grayson Wydimere
+	- gossip column

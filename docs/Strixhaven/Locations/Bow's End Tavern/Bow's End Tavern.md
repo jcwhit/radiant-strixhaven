@@ -1,4 +1,4 @@
--tavern on campus
+- tavern on campus
 
--bartender:
-	-[[Javinish]]
+- bartender:
+	- [[Javinish]]

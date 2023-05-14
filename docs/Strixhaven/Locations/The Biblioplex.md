@@ -1,6 +1,6 @@
--library
--study hall
+- library
+- study hall
 
--Staff:
-	-[[Mina Lee]]
-		-works evenings as an assistant librarian
+- Staff:
+	- [[Mina Lee]]
+		- works evenings as an assistant librarian

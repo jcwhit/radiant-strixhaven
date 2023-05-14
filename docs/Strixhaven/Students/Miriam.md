@@ -1,5 +1,5 @@
--elf
--first year student
--[[Prismari]] hopeful
+- elf
+- first year student
+- [[Prismari]] hopeful
 
--attacked by mimic during orientation
+- attacked by mimic during orientation

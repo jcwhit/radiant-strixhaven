@@ -1,3 +1,3 @@
--blue-red
+- blue- red
 
--college of arts and performance
+- college of arts and performance

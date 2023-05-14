@@ -1,6 +1,6 @@
--gnoll
--extremely introverted
+- gnoll
+- extremely introverted
 
--In cohort with:
-	-[[Rosey Miffinbiff]]
-	-[[Greta]]
+- In cohort with:
+	- [[Rosey Miffinbiff]]
+	- [[Greta]]

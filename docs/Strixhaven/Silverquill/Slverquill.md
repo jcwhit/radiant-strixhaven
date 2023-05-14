@@ -1,5 +1,5 @@
--white-black
+- white- black
 
--college of writers, politicians, and lawyers
+- college of writers, politicians, and lawyers
 
--social sciences
+- social sciences

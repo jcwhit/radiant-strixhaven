@@ -1,8 +1,8 @@
-green-white
+green- white
 
--College of maths, patterns, and arcane.
+- College of maths, patterns, and arcane.
 
 Professors:
-	-[[Deekah]]
+- [[Deekah]]
 
 Deans:

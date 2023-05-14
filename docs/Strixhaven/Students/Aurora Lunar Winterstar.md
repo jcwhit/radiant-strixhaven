@@ -1,7 +1,7 @@
--elven bard
--very pretty
--cold to others
+- elven bard
+- very pretty
+- cold to others
 
 Notes:
--plays at the Bow's End Tavern
--has rebuffed [[Jay]] 
+- plays at the Bow's End Tavern
+- has rebuffed [[Jay]] 
