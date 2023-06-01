@@ -5,5 +5,5 @@
 - [[Lorehold ]]hopeful
 
 - In cohort with:
-	- [[Anchor]]
+	- [[Anchor Root]]
 	- [[Greta]]

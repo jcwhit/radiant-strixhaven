@@ -1,0 +1,4 @@
+- the place where duels go down
+	- Duel coming up between 
+- a place to dump magical art
+- absorbs a lot of magic

@@ -19,6 +19,7 @@
 		- missing page that was last checked out by [[Quintillius Antiphiun Melentor III]]
 			- just got lead role in play
 			- possible stole the page for an audition
+			- found copy of the book in [[Night Market]] : Veda's Otherworldly Goods
 	- Michael Keydan
 		- thief 
 	- Reese Keydan

@@ -1,4 +1,8 @@
 - goliath
+- study identify artifact
+- from [[Djaynai & Janya]]
+	- member of a tribe in the Stepland
+	- name of the tribe can shatter bones
 
 - In cohort with:
 	- [[Quintillius Antiphiun Melentor III]]
@@ -13,3 +17,4 @@
 	-  wears ornate, old armor
 	-  Rampart is a nickname
 		-  real name is "Dangerous to weak ears"
+	- Brings the "thunder"
