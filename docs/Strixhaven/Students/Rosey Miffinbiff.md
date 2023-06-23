@@ -1,6 +1,8 @@
 - tiny female gnome
 - extremely friendly and extroverted
 - first year student
+- straight edge, does not like cheaters or deceit
+- -1 friend points
 
 - [[Lorehold ]]hopeful
 

@@ -3,5 +3,5 @@
 - teaches Archeology 101: Everything Old is New Again
 
 - total dweeb
-- sent party to the office of [[Augusta, Dean of Order]]
+- sent party to the office of [[Augusta Tolus, Dean of Order]]
 	- Jay struck a nerve by asking a question in regards to the [[The Sheapard's Cane Artifact]]

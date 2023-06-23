@@ -20,6 +20,12 @@
 			- just got lead role in play
 			- possible stole the page for an audition
 			- found copy of the book in [[Night Market]] : Veda's Otherworldly Goods
+		- missing page
+			- went to kill powerful wizard and where never heard form again
+			- the amulet that the wore "The Shadow Song Syndicate"
+				- recently found by [[Augusta Tolus, Dean of Order]]
+					- 15 years ago
+					- dedicated her life's work to the site of the amulet
 	- Michael Keydan
 		- thief 
 	- Reese Keydan

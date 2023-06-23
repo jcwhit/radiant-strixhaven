@@ -4,5 +4,5 @@ Staff:
 - [[Mina Lee]]: 
 	- reporter and writer
 
-- Grayson Wydimere
+- [[Grayson Wyndamere]]
 	- gossip column

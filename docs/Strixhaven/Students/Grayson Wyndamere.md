@@ -1,0 +1,3 @@
+- writer for the [[The Strixhaven Star]]
+	- writes for the Gossip Column
+- 

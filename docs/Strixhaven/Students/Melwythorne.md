@@ -1,0 +1,5 @@
+- sprits that inhabit it's body
+- dryad
+- wooden and bark body
+- fought [[Nocto Seguaro]] in the duel
+	- lost

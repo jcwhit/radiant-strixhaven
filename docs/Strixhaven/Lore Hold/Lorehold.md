@@ -6,5 +6,5 @@ Professors:
 - [[Urkey Timbers]]
 
 Deans:
-- [[Augusta, Dean of Order]]
+- [[Augusta Tolus, Dean of Order]]
 - [[Plargg, Dean of Chaos]]

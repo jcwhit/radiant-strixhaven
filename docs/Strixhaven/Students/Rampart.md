@@ -3,17 +3,28 @@
 - from [[Djaynai & Janya]]
 	- member of a tribe in the Stepland
 	- name of the tribe can shatter bones
+		- Bhedum Rampart Soovij
+	- from the Soovij Tribe
+		- ethnic group of people
+		- mountain uplands from the coast
+			- arid lands
+			- dust storms
+		- duels are not that important
+		- specialize in grappling combat
+		- religious beliefs surrounding storms and lightning
 
 - In cohort with:
 	- [[Quintillius Antiphiun Melentor III]]
-		- not close with
+		- his second in the duel against Jay
 	- [[Aurora Lunar Winterstar]]
 		- not close with at all
 
 - Notes:
 	-  avid player of Dragonchess
 	-  challenged [[Jay]] to a duel
-		-  Jay insulted him by losing a game of Dragonchess and trying to write an IOU
+		- Jay insulted him by losing a game of Dragonchess and trying to write an IOU
+		- If Jay loses, he loses spellbook
+		- defeated Jay in his round
 	-  wears ornate, old armor
 	-  Rampart is a nickname
 		-  real name is "Dangerous to weak ears"
