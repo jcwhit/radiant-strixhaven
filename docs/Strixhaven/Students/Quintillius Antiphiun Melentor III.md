@@ -9,3 +9,4 @@
 Notes:
 - we believe him to have stolen page of poetry related to the The Keydan Twins
 - got lead role recently in guild play
+- got rekt by [[Ruarch Stilgr]] in Jay's duel

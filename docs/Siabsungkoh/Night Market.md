@@ -28,6 +28,7 @@ One can get a stall from the dwarf Maldus but the list is years long.
 		- has beef with Lamai Tyenmo
 	- seafood stall
 - The Spicy Brothers
-	- run by Vie and Kasseem Aroon
-		- Vie is getting married and brother Kasseem is resentful
+	- run by Vi and Kasseem Aroon
+		- Vie is getting married and brother 
+			- Kasseem is resentful of this
 	- have chili pepper eating contest in the Market Games

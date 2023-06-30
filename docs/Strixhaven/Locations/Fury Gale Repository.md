@@ -1,4 +1,5 @@
 - the place where duels go down
 	- Duel coming up between 
+	- when dropped to 0 hp you are knocked out and awaken minutes later
 - a place to dump magical art
 - absorbs a lot of magic
