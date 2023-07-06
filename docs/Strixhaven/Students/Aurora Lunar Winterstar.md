@@ -2,6 +2,9 @@
 - very pretty
 - cold to others
 - from [[Zinda]]
+- 2 friendship points
+	- bards are covering our drinks a taverns and cafes
+		- out of respect for Aurora
 
 - In cohort with:
 	- [[Quintillius Antiphiun Melentor III]]
@@ -16,3 +19,6 @@
 	- has rebuffed [[Jay]] 
 	- runs cold
 		- cold hands
+	- Dhampir
+		- half-vampire
+		- mentee of [[Valentin, Dean of the Vein]]

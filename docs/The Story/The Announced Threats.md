@@ -19,9 +19,13 @@
 		- missing page that was last checked out by [[Quintillius Antiphiun Melentor III]]
 			- just got lead role in play
 			- possible stole the page for an audition
+				- claims he was studying it for a play on elven swordswoman
+					- Julie d’Aubigny
 			- found copy of the book in [[Night Market]] : Veda's Otherworldly Goods
 		- missing page
 			- went to kill powerful wizard and where never heard form again
+				- fought a wizard name Gulthias
+					- no info on this guy seems to exist, it may have been "erased"
 			- the amulet that the wore "The Shadow Song Syndicate"
 				- recently found by [[Augusta Tolus, Dean of Order]]
 					- 15 years ago
@@ -30,3 +34,12 @@
 		- thief 
 	- Reese Keydan
 		- assasin/poisoner
+- [[Aurora Lunar Winterstar]] attack by someone with a linked poison
+	- stole red choker linked to Aurora's vampiric heritage
+	- unable to locate, likely left the Radiant Citadel
+	- poison is over 100 years old
+		- manufactured
+		- used by a Cult of The Dragon
+		- typically instantly fatal
+		- poison re-surfaced 50 years after Keyden twins dissappeared
+		- 

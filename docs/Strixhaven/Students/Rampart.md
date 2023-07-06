@@ -3,7 +3,7 @@
 - from [[Djaynai & Janya]]
 	- member of a tribe in the Stepland
 	- name of the tribe can shatter bones
-		- Bhedum Rampart Soovij
+		- Bhedum "Rampart" Soovij
 	- from the Soovij Tribe
 		- ethnic group of people
 		- mountain uplands from the coast
