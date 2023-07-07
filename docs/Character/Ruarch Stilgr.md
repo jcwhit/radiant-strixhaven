@@ -6,3 +6,4 @@ Attending Strixhaven to study codes of chivalry
 - Background:
 	- Sailor of **Djaynai**
 	- Has "died" many times and brought back via chronomancy
+ 	- doesn't understand git
